@@ -11,4 +11,6 @@ dlib 실습해보기 c++
 3. 코드 실행
 
 http://sensibilityit.tistory.com/497?category=737298 
-아주 잘 정리되어있음! 
+전체적인 과정을 아주 잘 설명해주셨음!
+
+
