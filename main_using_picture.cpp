@@ -57,7 +57,7 @@ int main()
 		image_window win;
 
 		// Loop over all the images provided on the command line.
-		for (int i = 1; i < 2; ++i)
+		//for (int i = 1; i < 2; ++i)
 		{
 			//cout << "processing image " << argv[i] << endl;
 			array2d<unsigned char> img;
